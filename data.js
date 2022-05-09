@@ -44,3 +44,5 @@ let countries = [
     {name: "San Marino", capital: "San Marino", population: 33931, EuMember: false},
     {name: "Holy See", capital: "Vatican City", population: 801, EuMember: false}
 ];
+
+module.exports = countries; //make countries accessible to other modules

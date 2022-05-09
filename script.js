@@ -1,0 +1,1 @@
+const countries = require("./data.js"); //Imports data from data.js file
